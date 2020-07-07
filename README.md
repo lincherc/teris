@@ -1,2 +1,1 @@
-# LL1-grammar-analyzer
-a LL1 grammar analyzer build by .net core C#
+a tetris game build on winform .net framework by C#
