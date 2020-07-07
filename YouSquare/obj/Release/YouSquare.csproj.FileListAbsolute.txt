@@ -1,0 +1,10 @@
+C:\RiderProjects\YouSquare\YouSquare\bin\Release\YouSquare.exe.config
+C:\RiderProjects\YouSquare\YouSquare\bin\Release\YouSquare.exe
+C:\RiderProjects\YouSquare\YouSquare\bin\Release\YouSquare.pdb
+C:\RiderProjects\YouSquare\YouSquare\obj\Release\YouSquare.csprojAssemblyReference.cache
+C:\RiderProjects\YouSquare\YouSquare\obj\Release\YouSquare.MainView.resources
+C:\RiderProjects\YouSquare\YouSquare\obj\Release\YouSquare.Properties.Resources.resources
+C:\RiderProjects\YouSquare\YouSquare\obj\Release\YouSquare.csproj.GenerateResource.cache
+C:\RiderProjects\YouSquare\YouSquare\obj\Release\YouSquare.csproj.CoreCompileInputs.cache
+C:\RiderProjects\YouSquare\YouSquare\obj\Release\YouSquare.exe
+C:\RiderProjects\YouSquare\YouSquare\obj\Release\YouSquare.pdb
